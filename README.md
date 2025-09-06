@@ -1,6 +1,7 @@
-# StudentMentalApp
+# MENTAL HEALTH SUPPORT FOR STUDENTS
+(Mobile Application)
 
-Welcome to **StudentMentalApp**, a platform designed to help students manage mental well-being through courses, games, anonymous chats, and event participation.
+Build an application tailored for university students that helps to complement existing support with systems. For example, the mobile app could be developed features such as allowing users to easily maintain a mood diary, play relaxing gaes or practise mindfulness.
 
 ## Design Prototype
 
